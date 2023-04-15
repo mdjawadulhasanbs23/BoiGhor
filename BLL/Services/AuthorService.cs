@@ -17,10 +17,10 @@ namespace BLL.Services
 
         public int Add(AuthorDTO authorDto)
         {
-            var config = new MapperConfiguration(cfg => cfg.CreateMap<AuthorDTO, Author>());
+            var config = new MapperConfiguration(cfg => cfg.CreateMap<AuthorDTO,Author>());
             var mapper = new Mapper(config);
-            var author = mapper.Map<Author>(authorDto);
-            var result = DataAccessFactory.AuthorDataAccess(_db).Add(author);
+            var data = mapper.Map<Book>(authorDto);
+            var result = DataAccessFactory.BookDataAccess(_db).Add(data);
             return result;
         }
 

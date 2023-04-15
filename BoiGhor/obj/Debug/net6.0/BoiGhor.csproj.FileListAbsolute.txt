@@ -898,3 +898,14 @@ C:\Users\BS1129\OneDrive - Brain Station 23 Ltd\Code Repo\BoiGhor\BoiGhor\obj\De
 C:\Users\BS1129\OneDrive - Brain Station 23 Ltd\Code Repo\BoiGhor\BoiGhor\obj\Debug\net6.0\BoiGhor.pdb
 C:\Users\BS1129\OneDrive - Brain Station 23 Ltd\Code Repo\BoiGhor\BoiGhor\obj\Debug\net6.0\BoiGhor.genruntimeconfig.cache
 C:\Users\BS1129\OneDrive - Brain Station 23 Ltd\Code Repo\BoiGhor\BoiGhor\obj\Debug\net6.0\ref\BoiGhor.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\BoiGhor\obj\Debug\net6.0\BoiGhor.csproj.AssemblyReference.cache
+C:\Users\BS1129\Desktop\Code\BoiGhor\BoiGhor\obj\Debug\net6.0\BoiGhor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS1129\Desktop\Code\BoiGhor\BoiGhor\obj\Debug\net6.0\BoiGhor.AssemblyInfoInputs.cache
+C:\Users\BS1129\Desktop\Code\BoiGhor\BoiGhor\obj\Debug\net6.0\BoiGhor.AssemblyInfo.cs
+C:\Users\BS1129\Desktop\Code\BoiGhor\BoiGhor\obj\Debug\net6.0\BoiGhor.csproj.CoreCompileInputs.cache
+C:\Users\BS1129\Desktop\Code\BoiGhor\BoiGhor\obj\Debug\net6.0\BoiGhor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BS1129\Desktop\Code\BoiGhor\BoiGhor\obj\Debug\net6.0\BoiGhor.RazorAssemblyInfo.cache
+C:\Users\BS1129\Desktop\Code\BoiGhor\BoiGhor\obj\Debug\net6.0\BoiGhor.RazorAssemblyInfo.cs
+C:\Users\BS1129\Desktop\Code\BoiGhor\BoiGhor\obj\Debug\net6.0\BoiGhor.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\BoiGhor\obj\Debug\net6.0\refint\BoiGhor.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\BoiGhor\obj\Debug\net6.0\BoiGhor.pdb
