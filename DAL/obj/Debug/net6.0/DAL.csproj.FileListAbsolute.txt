@@ -282,3 +282,9 @@ C:\Users\BS1129\Desktop\Code\BoiGhor\DAL\obj\Debug\net6.0\refint\DAL.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\DAL\obj\Debug\net6.0\DAL.pdb
 C:\Users\BS1129\Desktop\Code\BoiGhor\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
 C:\Users\BS1129\Desktop\Code\BoiGhor\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\DAL\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\DAL\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\DAL\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\DAL\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\DAL\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\DAL\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll

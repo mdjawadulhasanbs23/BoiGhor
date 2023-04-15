@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
+
 
 namespace DAL.DB
 {
@@ -21,6 +19,7 @@ namespace DAL.DB
         [StringLength(100, MinimumLength = 5, ErrorMessage = "Address must be between 5 and 100 characters.")]
         public string? Address { get; set; }
 
+        [Required(ErrorMessage = "Choose the Photo.")]
         public string? ImageUrl { get; set; }
 
         public virtual ICollection<Book>? Books { get; set; }
