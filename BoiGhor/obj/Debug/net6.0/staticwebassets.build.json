@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+jID4cxKxvwFS1wRdhRnlGeE6uQXForyA0AegD//cgE=",
+  "Hash": "MpBPnwWxfmqNnANNWAHcNbAHvKgzVylt65xz8QSitRc=",
   "Source": "BoiGhor",
   "BasePath": "_content/BoiGhor",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\BS1332_PHOTO.jpg",
+      "SourceId": "BoiGhor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\",
+      "BasePath": "_content/BoiGhor",
+      "RelativePath": "images/BS1332_PHOTO.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\BS1332_PHOTO.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\PHOTO1.jpg",
+      "SourceId": "BoiGhor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\",
+      "BasePath": "_content/BoiGhor",
+      "RelativePath": "images/PHOTO1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\PHOTO1.jpg"
     },
     {
       "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\js\\site.js",

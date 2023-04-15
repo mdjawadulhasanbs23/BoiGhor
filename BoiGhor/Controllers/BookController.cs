@@ -33,7 +33,7 @@ namespace BoiGhor.Controllers
                 return View(book);
             }
 
-           bookService.Add(book);
+            bookService.Add(book);
             return RedirectToAction("Index");   
 
         }

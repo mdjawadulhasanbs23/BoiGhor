@@ -1,6 +1,8 @@
 ﻿using BLL.DTOs;
 using BLL.Services;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using System.Text;
 
 namespace BoiGhor.Controllers
 {
@@ -8,11 +10,16 @@ namespace BoiGhor.Controllers
     {
 
         private readonly AuthorService authorService;
+        private readonly IWebHostEnvironment _env;
 
-        public AuthorController(AuthorService authorService)
+        public AuthorController(AuthorService authorService, IWebHostEnvironment env)
         {
             this.authorService = authorService;
+            _env = env;
         }
+
+
+
         public IActionResult Index()
         {
             var authors = authorService.GetAuthors();
@@ -25,17 +32,33 @@ namespace BoiGhor.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(AuthorDTO author)
+        public  IActionResult Create(AuthorDTO authorDto, IFormFile upload)
         {
-
             if (!ModelState.IsValid)
             {
-                return View(author);
+                return View(authorDto);
             }
 
-            authorService.Add(author);
-            return RedirectToAction("Index");
+            if (upload != null && upload.Length > 0)
+            {
+                var fileName = Path.GetFileName(upload.FileName);
+                var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images", fileName);
+                authorDto.ImageUrl = filePath;
 
+                using (var fileSrteam = new FileStream(filePath, FileMode.Create))
+                {
+                   upload.CopyToAsync(fileSrteam);
+                }
+              
+            }
+
+
+
+
+
+            authorService.Add(authorDto);
+            return RedirectToAction("Index");
         }
+
     }
 }

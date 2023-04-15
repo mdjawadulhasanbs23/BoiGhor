@@ -35,6 +35,8 @@ namespace DAL.Repositories
             return db.Authors.ToList();
         }
 
+     
+
         public Author Get(int id)
         {
             return db.Authors.Find(id);

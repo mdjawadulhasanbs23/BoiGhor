@@ -274,3 +274,9 @@ C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\refint\BLL.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.pdb
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
