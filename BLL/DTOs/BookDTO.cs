@@ -24,7 +24,7 @@ namespace BLL.DTOs
 
         public int AuthorId { get; set; }
 
-        public virtual Author? Author { get; set; }
+        public virtual AuthorDTO? Author { get; set; }
     }
 
 }

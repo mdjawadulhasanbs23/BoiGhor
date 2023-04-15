@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\BoiGhor\\BoiGhor.csproj": {}
+    "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\BoiGhor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\BLL\\BLL.csproj": {
+    "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\BLL\\BLL.csproj",
+        "projectPath": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\BS1129\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\BLL\\obj\\",
+        "outputPath": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BS1129\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\DAL\\DAL.csproj"
+              "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\DAL\\DAL.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\BoiGhor\\BoiGhor.csproj": {
+    "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\BoiGhor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\BoiGhor\\BoiGhor.csproj",
+        "projectUniqueName": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\BoiGhor.csproj",
         "projectName": "BoiGhor",
-        "projectPath": "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\BoiGhor\\BoiGhor.csproj",
+        "projectPath": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\BoiGhor.csproj",
         "packagesPath": "C:\\Users\\BS1129\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\BoiGhor\\obj\\",
+        "outputPath": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BS1129\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,8 +93,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\BLL\\BLL.csproj": {
-                "projectPath": "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\BLL\\BLL.csproj"
+              "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BLL\\BLL.csproj"
               }
             }
           }
@@ -151,14 +151,14 @@
         }
       }
     },
-    "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\DAL\\DAL.csproj": {
+    "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\BS1129\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BS1129\\AppData\\Roaming\\NuGet\\NuGet.Config",

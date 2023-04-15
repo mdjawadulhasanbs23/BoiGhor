@@ -17,5 +17,10 @@ namespace DAL
         }
 
 
+        public static IRepo<Author, int> AuthorDataAccess(ApplicationDbContext db)
+        {
+            return new AuthorRepo(db);
+        }
+
     }
 }

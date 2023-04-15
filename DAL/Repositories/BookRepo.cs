@@ -1,5 +1,6 @@
 ﻿using DAL.DB;
 using DAL.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,9 +26,12 @@ namespace DAL.Repositories
 
         public bool Delete(int id)
         {
-            var product = Get(id);
-            db.Books.Remove(product);
-            return db.SaveChanges() > 0;
+            var author = Get(id);
+            if (author == null) return false;
+
+            db.Entry(author).State = EntityState.Deleted;
+            db.SaveChanges();
+            return true;
         }
 
         public List<Book> Get()

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P2oWjArKyJ6BewiaQgtbu/Q5fW9Ux8ld1Wedn1jHJElg9BgruiT6Zg1MPBwM5YfQimE1756j4+FsTpmI2JMzqg==",
+  "dgSpecHash": "7xEwhNp+psF0Qx3cO6AolSPLGmlGExGJ9QEhtMn+LJ8adBudejWFdnCUadeGqGQnYTUJz1C0m7EZZu4kMqfBFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BS1129\\OneDrive - Brain Station 23 Ltd\\Code Repo\\BoiGhor\\BLL\\BLL.csproj",
+  "projectFilePath": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BS1129\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\BS1129\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
