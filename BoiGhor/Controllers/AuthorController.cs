@@ -15,7 +15,8 @@ namespace BoiGhor.Controllers
         }
         public IActionResult Index()
         {
-            return View();
+            var authors = authorService.GetAuthors();
+            return View(authors);
         }
 
         public IActionResult Create()
