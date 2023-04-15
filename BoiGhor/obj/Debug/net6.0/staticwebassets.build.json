@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MpBPnwWxfmqNnANNWAHcNbAHvKgzVylt65xz8QSitRc=",
+  "Hash": "lT8K5TcuIYok2haTY8eNBg5hwL213RQy8q/6yOxHHs0=",
   "Source": "BoiGhor",
   "BasePath": "_content/BoiGhor",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\PHOTO1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\WIN_20230412_17_22_19_Pro.jpg",
+      "SourceId": "BoiGhor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\",
+      "BasePath": "_content/BoiGhor",
+      "RelativePath": "images/WIN_20230412_17_22_19_Pro.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\WIN_20230412_17_22_19_Pro.jpg"
     },
     {
       "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\js\\site.js",

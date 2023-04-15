@@ -32,7 +32,7 @@ namespace BoiGhor.Controllers
         }
 
         [HttpPost]
-        public  IActionResult Create(AuthorDTO authorDto, IFormFile upload)
+        public IActionResult Create(AuthorDTO authorDto, IFormFile upload)
         {
             if (!ModelState.IsValid)
             {
@@ -43,13 +43,13 @@ namespace BoiGhor.Controllers
             {
                 var fileName = Path.GetFileName(upload.FileName);
                 var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images", fileName);
-                authorDto.ImageUrl = filePath;
+                authorDto.ImageUrl = fileName;
 
                 using (var fileSrteam = new FileStream(filePath, FileMode.Create))
                 {
-                   upload.CopyToAsync(fileSrteam);
+                    upload.CopyToAsync(fileSrteam);
                 }
-              
+
             }
 
 
@@ -57,6 +57,48 @@ namespace BoiGhor.Controllers
 
 
             authorService.Add(authorDto);
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult Update(int id)
+        {
+            var author = authorService.Get(id);
+            return View(author);
+        }
+
+        [HttpPost]
+        public IActionResult Update(AuthorDTO authorDto, IFormFile upload)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(authorDto);
+            }
+
+            if (upload != null && upload.Length > 0)
+            {
+                var fileName = Path.GetFileName(upload.FileName);
+                var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images", fileName);
+                authorDto.ImageUrl = fileName;
+
+                using (var fileSrteam = new FileStream(filePath, FileMode.Create))
+                {
+                    upload.CopyToAsync(fileSrteam);
+                }
+            }
+
+            authorService.Update(authorDto);
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult Details(int id)
+        {
+            var author = authorService.Get(id);
+            return View(author);
+        }
+
+        public IActionResult Delete(int id)
+        {
+            authorService.Delete(id);
             return RedirectToAction("Index");
         }
 
