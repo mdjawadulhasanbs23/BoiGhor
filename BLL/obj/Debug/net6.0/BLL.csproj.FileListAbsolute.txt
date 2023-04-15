@@ -205,14 +205,6 @@ C:\Users\BS1129\OneDrive - Brain Station 23 Ltd\Code Repo\BoiGhor\BLL\obj\Debug\
 C:\Users\BS1129\OneDrive - Brain Station 23 Ltd\Code Repo\BoiGhor\BLL\obj\Debug\net6.0\BLL.pdb
 C:\Users\BS1129\OneDrive - Brain Station 23 Ltd\Code Repo\BoiGhor\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
 C:\Users\BS1129\OneDrive - Brain Station 23 Ltd\Code Repo\BoiGhor\BLL\obj\Debug\net6.0\ref\BLL.dll
-C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
-C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
-C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
-C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
-C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.dll
-C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\refint\BLL.dll
-C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.pdb
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\DAL.deps.json
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\DAL.runtimeconfig.json
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\DAL.exe
@@ -271,6 +263,14 @@ C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\runtimes\win\lib\netst
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\DAL.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.pdb
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\ref\BLL.dll
