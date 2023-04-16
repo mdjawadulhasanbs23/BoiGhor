@@ -216,6 +216,10 @@ C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\BLL.pdb
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Azure.Core.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -229,6 +233,7 @@ C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.Extensions.D
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
@@ -239,6 +244,7 @@ C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.IdentityMode
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
@@ -274,9 +280,3 @@ C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\refint\BLL.dll
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.pdb
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
 C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\obj\Debug\net6.0\ref\BLL.dll
-C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
-C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
-C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
-C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
-C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
-C:\Users\BS1129\Desktop\Code\BoiGhor\BLL\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
