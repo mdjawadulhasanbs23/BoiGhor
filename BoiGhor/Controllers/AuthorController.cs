@@ -92,6 +92,7 @@ namespace BoiGhor.Controllers
 
         public IActionResult Details(int id)
         {
+            
             var author = authorService.Get(id);
             return View(author);
         }
