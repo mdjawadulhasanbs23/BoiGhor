@@ -1,14 +1,14 @@
 ﻿@model BLL.DTOs.AuthorDTO
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Author Details";
 }
 
 <style>
     .author-image {
         display: inline-block;
-        width: 100px;
-        height: 100px;
+        width: 150px;
+        height: 150px;
         border-radius: 50%;
         overflow: hidden;
     }
@@ -22,10 +22,15 @@
         display: flex;
         flex-wrap: wrap;
         align-items: center;
+
+    }
+
+    .row{
+        margin-left:20px;
     }
 </style>
 
-<h1>Details</h1>
+<h1 style="font-family: Arial, sans-serif; color: #3366CC; font-size: 28px; font-weight: bold; text-align: center;">Author Details</h1>
 
 <div class="details-container">
     <div class="author-image">
@@ -53,12 +58,40 @@
         </dd>
     </dl>
 </div>
-
+<br />
+<br />
 <div>
-    @Html.ActionLink("Edit", "Update", new { id = Model.Id })
-    @Html.ActionLink("Delete", "Delete", new {  id=Model.Id  })
-    @Html.ActionLink("Add Book", "Create", "Book", new {  id=Model.Id  })
-    <a asp-action="Index">Back to List</a>
+    @Html.ActionLink("Edit", "Update", new { id = Model.Id }, new { @class = "btn btn-warning" })
+
+    <button type="button" class="btn btn-danger" onclick="confirmDelete()">Delete Author</button>
+
+    <script>
+        function confirmDelete() {
+            Swal.fire({
+                title: 'Are you sure you want to delete the Author?',
+                text: "All the Books by this Author Will also be deleted!",
+                icon: 'warning',
+                showCancelButton: true,
+                confirmButtonColor: '#3085d6',
+                cancelButtonColor: '#d33',
+                confirmButtonText: '<i class="fa fa-check"></i> OK',
+                cancelButtonText: '<i class="fa fa-times"></i> Cancel'
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    window.location.href = "/AUthor/Delete/@Model.Id";
+                }
+            });
+        }
+    </script>
+
+
+
+    @Html.ActionLink("Add Book", "Create", "Book", new { id = Model.Id }, new { @class = "btn btn-success" })
+
+
+
+    <a asp-action="Index" class="btn btn-primary">Back to List</a>
+
 </div>
 
 

@@ -1,29 +1,29 @@
 ﻿@model IEnumerable<BLL.DTOs.BookDTO>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Book Home";
 }
 
-<h1>Index</h1>
+<h1 style="font-family: Arial, sans-serif; color: #3366CC; font-size: 28px; font-weight: bold; text-align: center;">Book Homepage</h1>
+
 
 
 <table class="table">
     <thead>
         <tr>
-          
-            <th>
+            <th style="background-color: #061F27; color: white;">
                 @Html.DisplayNameFor(model => model.Title)
             </th>
-            <th>
+            <th style="background-color: #061F27; color: white;">
                 @Html.DisplayNameFor(model => model.Language)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.CoverImageUrl)
+            <th style="background-color: #061F27; color: white;">
+                Cover Photo
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.AuthorName)
+            <th style="background-color: #061F27; color: white;">
+                Author
             </th>
-            <th></th>
+            
         </tr>
     </thead>
     <tbody>

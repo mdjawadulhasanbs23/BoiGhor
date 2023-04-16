@@ -4,8 +4,7 @@
     ViewData["Title"] = "Create Book";
 }
 
-<h1>Create Book</h1>
-
+<h1 style="font-family: Arial, sans-serif; color: #3366CC; font-size: 28px; font-weight: bold; text-align: left;">Add Book</h1>
 
 <hr />
 <div class="row">
@@ -41,7 +40,7 @@
                 <input asp-for="AuthorName" class="form-control" value="@Model.AuthorName" readonly />
                 <span asp-validation-for="AuthorName" class="text-danger"></span>
             </div>
-
+            <br />
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
@@ -50,7 +49,8 @@
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <br />
+    <a asp-action="Index" class="btn btn-outline-warning">Back to List</a>
 </div>
 
 @section Scripts {
