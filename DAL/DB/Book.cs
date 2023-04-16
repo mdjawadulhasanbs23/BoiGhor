@@ -23,6 +23,8 @@ namespace DAL.DB
 
         public string? CoverImageUrl { get; set; }
 
+        public string? AuthorName { get; set; }
+
         public int AuthorId { get; set; }
 
         [ForeignKey("AuthorId")]

@@ -21,8 +21,12 @@
       "PackagePath": "staticwebassets\\images\\PHOTO1.jpg"
     },
     {
-      "Id": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\WIN_20230412_17_22_19_Pro.jpg",
-      "PackagePath": "staticwebassets\\images\\WIN_20230412_17_22_19_Pro.jpg"
+      "Id": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\Poster-pursuithappyness.jpg",
+      "PackagePath": "staticwebassets\\images\\Poster-pursuithappyness.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\gettyimages-157482029-612x612.jpg",
+      "PackagePath": "staticwebassets\\images\\gettyimages-157482029-612x612.jpg"
     },
     {
       "Id": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\js\\site.js",

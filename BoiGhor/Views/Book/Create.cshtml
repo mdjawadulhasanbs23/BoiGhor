@@ -10,9 +10,9 @@
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Create">
+        <form asp-action="Create" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-           
+
             <div class="form-group">
                 <label asp-for="Title" class="control-label"></label>
                 <input asp-for="Title" class="form-control" />
@@ -24,15 +24,24 @@
                 <span asp-validation-for="Language" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="CoverImageUrl" class="control-label"></label>
-                <input asp-for="CoverImageUrl" class="form-control" />
+                <label class="control-label">Image</label>
+
+                <div class="custom-file">
+                    <input type="file" id="customFile" name="upload" accept="image/*">
+                    <label class="custom-file-label" for="customFile">Choose file</label>
+                </div>
+
                 <span asp-validation-for="CoverImageUrl" class="text-danger"></span>
             </div>
+
+            <input asp-for="AuthorId" type="hidden" class="form-control" value="@Model.AuthorId" readonly />
+
             <div class="form-group">
-                <label asp-for="AuthorId" class="control-label"></label>
-                <input asp-for="AuthorId" class="form-control" />
-                <span asp-validation-for="AuthorId" class="text-danger"></span>
+                <label asp-for="AuthorName" class="control-label"></label>
+                <input asp-for="AuthorName" class="form-control" value="@Model.AuthorName" readonly />
+                <span asp-validation-for="AuthorName" class="text-danger"></span>
             </div>
+
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
@@ -45,5 +54,7 @@
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }
