@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8K1jcvi8z/HCxn66Mmy3EpK/VT3tiEZiLjF/rAeYCbg=",
+  "Hash": "xC6FQnMgY7MaiwRnulVf9c8BhXZ9nXqQvPp//sq6kAc=",
   "Source": "BoiGhor",
   "BasePath": "_content/BoiGhor",
   "Mode": "Default",
@@ -85,23 +85,6 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\gettyimages-157482029-612x612.jpg",
-      "SourceId": "BoiGhor",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\",
-      "BasePath": "_content/BoiGhor",
-      "RelativePath": "images/gettyimages-157482029-612x612.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gettyimages-157482029-612x612.jpg"
-    },
-    {
       "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\logo.png",
       "SourceId": "BoiGhor",
       "SourceType": "Discovered",
@@ -119,12 +102,12 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\PHOTO1.jpg",
+      "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\Michel.png",
       "SourceId": "BoiGhor",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\",
       "BasePath": "_content/BoiGhor",
-      "RelativePath": "images/PHOTO1.jpg",
+      "RelativePath": "images/Michel.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,24 +116,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\PHOTO1.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\Poster-pursuithappyness.jpg",
-      "SourceId": "BoiGhor",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\",
-      "BasePath": "_content/BoiGhor",
-      "RelativePath": "images/Poster-pursuithappyness.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Poster-pursuithappyness.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Michel.png"
     },
     {
       "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\js\\site.js",

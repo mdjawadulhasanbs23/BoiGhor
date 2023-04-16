@@ -13,7 +13,6 @@ namespace BLL.DTOs
         public int Id { get; set; }
 
         [Required(ErrorMessage = "Please enter the name.")]
-        [RegularExpression(@"^[a-zA-Z]+$", ErrorMessage = "Name should only contain characters.")]
         [StringLength(50, MinimumLength = 3, ErrorMessage = "Name must be between 3 and 50 characters.")]
         public string? Name { get; set; }
 
