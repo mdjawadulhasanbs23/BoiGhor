@@ -1,0 +1,50 @@
+﻿@model IEnumerable<BLL.DTOs.BookDTO>
+
+@{
+    ViewData["Title"] = "Book Home";
+}
+
+<h1 style="font-family: Arial, sans-serif; color: #3366CC; font-size: 28px; font-weight: bold; text-align: center;">Book Homepage</h1>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th style="background-color: #061F27; color: white;">
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th style="background-color: #061F27; color: white;">
+                @Html.DisplayNameFor(model => model.Language)
+            </th>
+            <th style="background-color: #061F27; color: white;">
+                Cover Photo
+            </th>
+            <th style="background-color: #061F27; color: white;">
+                Author
+            </th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+               
+                <td>
+                    @Html.ActionLink(item.Title, "Details", new { id = item.Id })
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Language)
+                </td>
+                <td>
+                    <img src="~/images/@item.CoverImageUrl" class="rounded" alt="Book Cover Image" width="100" height="150">
+                </td>
+                <td>
+                    @Html.ActionLink(item.AuthorName, "Details", "Author", new { id = item.AuthorId }, null)
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

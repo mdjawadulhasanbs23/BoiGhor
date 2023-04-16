@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BoiGhorAPI.props" />
+</Project>
