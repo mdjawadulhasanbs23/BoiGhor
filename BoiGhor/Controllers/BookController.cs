@@ -87,10 +87,10 @@ namespace BoiGhor.Controllers
         [HttpPost]
         public IActionResult Edit(BookDTO bookDTO, IFormFile upload)
         {
-            if (!ModelState.IsValid)
+           /* if (!ModelState.IsValid)
             {
                 return View(bookDTO);
-            }
+            }*/
 
             if (upload != null && upload.Length > 0)
             {
@@ -107,8 +107,10 @@ namespace BoiGhor.Controllers
 
 
 
-          
 
+            var author = authorService.Get(bookDTO.AuthorId);
+
+            bookDTO.AuthorName= author.Name;
             bookService.Update(bookDTO);
             return RedirectToAction("Index");
 

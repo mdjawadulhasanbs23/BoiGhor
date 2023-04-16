@@ -1,5 +1,6 @@
 ﻿using DAL.DB;
 using DAL.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,11 +36,13 @@ namespace DAL.Repositories
             return db.Authors.ToList();
         }
 
-     
+
 
         public Author Get(int id)
         {
-            return db.Authors.Find(id);
+            return db.Authors
+                .Include(a => a.Books)
+                .FirstOrDefault(a => a.Id == id);
         }
 
         public bool Update(Author obj)

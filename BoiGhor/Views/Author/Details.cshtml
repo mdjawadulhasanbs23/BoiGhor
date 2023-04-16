@@ -60,3 +60,21 @@
     @Html.ActionLink("Add Book", "Create", "Book", new {  id=Model.Id  })
     <a asp-action="Index">Back to List</a>
 </div>
+
+
+<h2>Books</h2>
+
+@if (Model.Books.Any())
+{
+    <ul>
+        @foreach (var book in Model.Books)
+        {
+          
+            <li>@Html.ActionLink(book.Title, "Details", "Book", new { id = book.Id }, null)</li>
+        }
+    </ul>
+}
+else
+{
+    <p>No books found for this author.</p>
+}
