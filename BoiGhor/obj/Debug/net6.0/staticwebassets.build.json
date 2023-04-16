@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lT8K5TcuIYok2haTY8eNBg5hwL213RQy8q/6yOxHHs0=",
+  "Hash": "FLIBgckwC8thm7wqgs/PSFPWhUsl8WecqzW+laAQ57E=",
   "Source": "BoiGhor",
   "BasePath": "_content/BoiGhor",
   "Mode": "Default",
@@ -102,6 +102,23 @@
       "OriginalItemSpec": "wwwroot\\images\\BS1332_PHOTO.jpg"
     },
     {
+      "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\gettyimages-157482029-612x612.jpg",
+      "SourceId": "BoiGhor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\",
+      "BasePath": "_content/BoiGhor",
+      "RelativePath": "images/gettyimages-157482029-612x612.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\gettyimages-157482029-612x612.jpg"
+    },
+    {
       "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\PHOTO1.jpg",
       "SourceId": "BoiGhor",
       "SourceType": "Discovered",
@@ -119,12 +136,12 @@
       "OriginalItemSpec": "wwwroot\\images\\PHOTO1.jpg"
     },
     {
-      "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\WIN_20230412_17_22_19_Pro.jpg",
+      "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\Poster-pursuithappyness.jpg",
       "SourceId": "BoiGhor",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\",
       "BasePath": "_content/BoiGhor",
-      "RelativePath": "images/WIN_20230412_17_22_19_Pro.jpg",
+      "RelativePath": "images/Poster-pursuithappyness.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,7 +150,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\WIN_20230412_17_22_19_Pro.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Poster-pursuithappyness.jpg"
     },
     {
       "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\js\\site.js",
