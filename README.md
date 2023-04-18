@@ -32,9 +32,10 @@ This is a multi-layered project that follows the SOLID structure. The project ha
 
 - C#
 - ASP.NET Core MVC
+- ASP .NET Core WEB API
 - Entity Framework Core
 - HTML
 - CSS
 - JavaScript
 - Bootstrap
-- ASP .NET Core WEB API
+
