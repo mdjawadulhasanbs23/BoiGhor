@@ -87,10 +87,7 @@ namespace BoiGhor.Controllers
         [HttpPost]
         public IActionResult Edit(BookDTO bookDTO, IFormFile upload)
         {
-           /* if (!ModelState.IsValid)
-            {
-                return View(bookDTO);
-            }*/
+           
 
             if (upload != null && upload.Length > 0)
             {

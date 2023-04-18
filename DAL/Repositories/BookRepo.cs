@@ -12,6 +12,7 @@ namespace DAL.Repositories
     internal class BookRepo : IRepo<Book, int>
     {
         private readonly ApplicationDbContext db;
+
         public BookRepo(ApplicationDbContext dbcon)
         {
             db = dbcon;

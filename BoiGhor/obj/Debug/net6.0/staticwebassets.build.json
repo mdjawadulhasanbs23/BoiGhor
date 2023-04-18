@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Cue8VjwfjXh/mFEMLxBDDqcsSK694ahS3e2hiTSw7To=",
+  "Hash": "l0c+NVGmZghTwm51VwHB0I4lrTpWj/1K8ULQM81TLL0=",
   "Source": "BoiGhor",
   "BasePath": "_content/BoiGhor",
   "Mode": "Default",
@@ -119,6 +119,23 @@
       "OriginalItemSpec": "wwwroot\\images\\226.jpg"
     },
     {
+      "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\41Vh3hhJHSL._SX328_BO1,204,203,200_.jpg",
+      "SourceId": "BoiGhor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\",
+      "BasePath": "_content/BoiGhor",
+      "RelativePath": "images/41Vh3hhJHSL._SX328_BO1,204,203,200_.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\41Vh3hhJHSL._SX328_BO1,204,203,200_.jpg"
+    },
+    {
       "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\aa.png",
       "SourceId": "BoiGhor",
       "SourceType": "Discovered",
@@ -151,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\bb.png"
+    },
+    {
+      "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\boighor.jpg",
+      "SourceId": "BoiGhor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\",
+      "BasePath": "_content/BoiGhor",
+      "RelativePath": "images/boighor.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\boighor.jpg"
     },
     {
       "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\dwight.png",
