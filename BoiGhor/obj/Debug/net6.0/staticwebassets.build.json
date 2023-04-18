@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "l0c+NVGmZghTwm51VwHB0I4lrTpWj/1K8ULQM81TLL0=",
+  "Hash": "LysIl7GgNQ25FNT0KjUVSmyQtAa21ALaVSTrzMnNImM=",
   "Source": "BoiGhor",
   "BasePath": "_content/BoiGhor",
   "Mode": "Default",
@@ -83,23 +83,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\2024748.jpg",
-      "SourceId": "BoiGhor",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\",
-      "BasePath": "_content/BoiGhor",
-      "RelativePath": "images/2024748.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\2024748.jpg"
     },
     {
       "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\226.jpg",
@@ -238,23 +221,6 @@
       "OriginalItemSpec": "wwwroot\\images\\gettyimages-157482029-612x612.jpg"
     },
     {
-      "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\how-to-draw-an-open-book-featured-image-1200.webp",
-      "SourceId": "BoiGhor",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\",
-      "BasePath": "_content/BoiGhor",
-      "RelativePath": "images/how-to-draw-an-open-book-featured-image-1200.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\how-to-draw-an-open-book-featured-image-1200.webp"
-    },
-    {
       "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\kindpng_4496776.png",
       "SourceId": "BoiGhor",
       "SourceType": "Discovered",
@@ -306,6 +272,40 @@
       "OriginalItemSpec": "wwwroot\\images\\Michel.png"
     },
     {
+      "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\PHOTO1.jpg",
+      "SourceId": "BoiGhor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\",
+      "BasePath": "_content/BoiGhor",
+      "RelativePath": "images/PHOTO1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\PHOTO1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\PHOTO1-PhotoRoom.png-PhotoRoom.png",
+      "SourceId": "BoiGhor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\",
+      "BasePath": "_content/BoiGhor",
+      "RelativePath": "images/PHOTO1-PhotoRoom.png-PhotoRoom.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\PHOTO1-PhotoRoom.png-PhotoRoom.png"
+    },
+    {
       "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\Poster-pursuithappyness.jpg",
       "SourceId": "BoiGhor",
       "SourceType": "Discovered",
@@ -321,23 +321,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Poster-pursuithappyness.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\sc.webp",
-      "SourceId": "BoiGhor",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\",
-      "BasePath": "_content/BoiGhor",
-      "RelativePath": "images/sc.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\sc.webp"
     },
     {
       "Identity": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\smith.png",

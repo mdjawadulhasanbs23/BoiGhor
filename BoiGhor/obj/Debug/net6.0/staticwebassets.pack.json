@@ -13,10 +13,6 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\2024748.jpg",
-      "PackagePath": "staticwebassets\\images\\2024748.jpg"
-    },
-    {
       "Id": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\226.jpg",
       "PackagePath": "staticwebassets\\images\\226.jpg"
     },
@@ -27,6 +23,14 @@
     {
       "Id": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\Michel.png",
       "PackagePath": "staticwebassets\\images\\Michel.png"
+    },
+    {
+      "Id": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\PHOTO1-PhotoRoom.png-PhotoRoom.png",
+      "PackagePath": "staticwebassets\\images\\PHOTO1-PhotoRoom.png-PhotoRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\PHOTO1.jpg",
+      "PackagePath": "staticwebassets\\images\\PHOTO1.jpg"
     },
     {
       "Id": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\Poster-pursuithappyness.jpg",
@@ -57,20 +61,12 @@
       "PackagePath": "staticwebassets\\images\\gettyimages-157482029-612x612.jpg"
     },
     {
-      "Id": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\how-to-draw-an-open-book-featured-image-1200.webp",
-      "PackagePath": "staticwebassets\\images\\how-to-draw-an-open-book-featured-image-1200.webp"
-    },
-    {
       "Id": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\kindpng_4496776.png",
       "PackagePath": "staticwebassets\\images\\kindpng_4496776.png"
     },
     {
       "Id": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
-    },
-    {
-      "Id": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\sc.webp",
-      "PackagePath": "staticwebassets\\images\\sc.webp"
     },
     {
       "Id": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\wwwroot\\images\\smith.png",
