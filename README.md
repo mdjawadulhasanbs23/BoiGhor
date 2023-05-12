@@ -26,8 +26,7 @@ This is a multi-layered project that follows the SOLID structure. The project ha
 5. Delete Book Information - Option to delete book information (with a confirmation popup)
 6. Update Author Information - Option to update author information
 7. Delete Author Information - Option to delete author information (with a confirmation popup and deleting all the author's books)
-8. View Bag - Every page should contain a title header from view bag
-9. Use View Model - Use of View Model architecture for better data management
+
 ## Technologies Used
 
 - C#
