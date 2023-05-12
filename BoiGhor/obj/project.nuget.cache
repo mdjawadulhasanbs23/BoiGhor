@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g40ixLfRGMAg4+MjmB4f0TfbbganAk4gZ/YFGmUIlwnJn0/2gq08WJjun6XmXYWONhvcIs3bbQ/S1FMUc3pKSg==",
+  "dgSpecHash": "TS37QuySUCvcXeBxf7uILBel70wpB9BGqoTy6KZizc7JLwNDxOKT/2vMv5liMY+m3tez6rH3BKBd9EmJzktaRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhor\\BoiGhor.csproj",
+  "projectFilePath": "C:\\.Custom\\Code Repo\\BoiGhor\\BoiGhor\\BoiGhor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BS1129\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\BS1129\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

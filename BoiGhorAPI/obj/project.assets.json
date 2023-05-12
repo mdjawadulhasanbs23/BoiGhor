@@ -3978,11 +3978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhorAPI\\BoiGhorAPI.csproj",
+      "projectUniqueName": "C:\\.Custom\\Code Repo\\BoiGhor\\BoiGhorAPI\\BoiGhorAPI.csproj",
       "projectName": "BoiGhorAPI",
-      "projectPath": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhorAPI\\BoiGhorAPI.csproj",
+      "projectPath": "C:\\.Custom\\Code Repo\\BoiGhor\\BoiGhorAPI\\BoiGhorAPI.csproj",
       "packagesPath": "C:\\Users\\BS1129\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BoiGhorAPI\\obj\\",
+      "outputPath": "C:\\.Custom\\Code Repo\\BoiGhor\\BoiGhorAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BS1129\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3999,8 +3999,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\BS1129\\Desktop\\Code\\BoiGhor\\BLL\\BLL.csproj"
+            "C:\\.Custom\\Code Repo\\BoiGhor\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\.Custom\\Code Repo\\BoiGhor\\BLL\\BLL.csproj"
             }
           }
         }
