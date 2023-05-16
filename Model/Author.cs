@@ -1,9 +1,9 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
-using Microsoft.AspNetCore.Http;
 
 
-namespace DAL.DB
+
+namespace Model
 {
     public class Author
     {

@@ -1255,6 +1255,16 @@
             "rid": "win"
           }
         }
+      },
+      "Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Model.dll": {}
+        }
       }
     }
   },
@@ -3678,6 +3688,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Model/1.0.0": {
+      "type": "project",
+      "path": "../Model/Model.csproj",
+      "msbuildProject": "../Model/Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3685,7 +3700,8 @@
       "Microsoft.AspNetCore.Http >= 2.2.2",
       "Microsoft.EntityFrameworkCore >= 7.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5",
-      "Microsoft.EntityFrameworkCore.Tools >= 7.0.5"
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.5",
+      "Model >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3714,7 +3730,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\.Custom\\Code Repo\\BoiGhor\\Model\\Model.csproj": {
+              "projectPath": "C:\\.Custom\\Code Repo\\BoiGhor\\Model\\Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

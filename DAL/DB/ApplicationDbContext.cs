@@ -1,5 +1,6 @@
-﻿using DAL.DB;
+﻿
 using Microsoft.EntityFrameworkCore;
+using Model;
 
 public class ApplicationDbContext : DbContext
 {
